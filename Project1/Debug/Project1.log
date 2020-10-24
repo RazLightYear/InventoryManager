@@ -1,0 +1,17 @@
+﻿  ElectronicsProduct.cpp
+  Groceries.cpp
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\date.h(41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Main.cpp
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\date.h(41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\main.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Menu.cpp
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\date.h(41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\menu.cpp(135): warning C4101: 'height': unreferenced local variable
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\menu.cpp(135): warning C4101: 'width': unreferenced local variable
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\menu.cpp(135): warning C4101: 'length': unreferenced local variable
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\menu.cpp(246): warning C4101: 'height': unreferenced local variable
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\menu.cpp(246): warning C4101: 'width': unreferenced local variable
+c:\users\רז\desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\products manager\project1\menu.cpp(246): warning C4101: 'length': unreferenced local variable
+  Product.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\רז\Desktop\לימודים\תכנות\שנה ב\סמסטר א\מועד ב'\Products Manager\Debug\Project1.exe
